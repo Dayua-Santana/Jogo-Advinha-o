@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "Teste_Advinha/1.0.0": {
+        "runtime": {
+          "Teste_Advinha.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Teste_Advinha/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

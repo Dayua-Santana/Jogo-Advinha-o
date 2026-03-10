@@ -1,0 +1,14 @@
+C:\Users\yuajs\Desktop\Teste_Advinha\bin\Debug\net10.0\Teste_Advinha.exe
+C:\Users\yuajs\Desktop\Teste_Advinha\bin\Debug\net10.0\Teste_Advinha.deps.json
+C:\Users\yuajs\Desktop\Teste_Advinha\bin\Debug\net10.0\Teste_Advinha.runtimeconfig.json
+C:\Users\yuajs\Desktop\Teste_Advinha\bin\Debug\net10.0\Teste_Advinha.dll
+C:\Users\yuajs\Desktop\Teste_Advinha\bin\Debug\net10.0\Teste_Advinha.pdb
+C:\Users\yuajs\Desktop\Teste_Advinha\obj\Debug\net10.0\Teste_Advinha.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yuajs\Desktop\Teste_Advinha\obj\Debug\net10.0\Teste_Advinha.AssemblyInfoInputs.cache
+C:\Users\yuajs\Desktop\Teste_Advinha\obj\Debug\net10.0\Teste_Advinha.AssemblyInfo.cs
+C:\Users\yuajs\Desktop\Teste_Advinha\obj\Debug\net10.0\Teste_Advinha.csproj.CoreCompileInputs.cache
+C:\Users\yuajs\Desktop\Teste_Advinha\obj\Debug\net10.0\Teste_Advinha.dll
+C:\Users\yuajs\Desktop\Teste_Advinha\obj\Debug\net10.0\refint\Teste_Advinha.dll
+C:\Users\yuajs\Desktop\Teste_Advinha\obj\Debug\net10.0\Teste_Advinha.pdb
+C:\Users\yuajs\Desktop\Teste_Advinha\obj\Debug\net10.0\Teste_Advinha.genruntimeconfig.cache
+C:\Users\yuajs\Desktop\Teste_Advinha\obj\Debug\net10.0\ref\Teste_Advinha.dll
