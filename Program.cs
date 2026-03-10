@@ -26,11 +26,11 @@ while (true)
 
         Console.WriteLine("(C) para continuar ou (S) para Sair ");
         string? letraDigitada = Console.ReadLine();
-        if (letraDigitada == "C" || letraDigitada == "c")
+        if (letraDigitada.ToUpper() == "C")
         {
             continue;
         }
-        else if (letraDigitada == "S" || letraDigitada == "s")
+        else if (letraDigitada.ToUpper() == "S")
         {
             break;
         }
@@ -40,6 +40,7 @@ while (true)
         Console.WriteLine("-----------------------------------------------------");
         Console.WriteLine("O número digitador é maior do que o número secreto!!!!");
         Console.WriteLine("-----------------------------------------------------");
+        Console.ReadLine();
     }
     else if (numeroDigitado < numeroSecreto)
     {
