@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Teste_Advinha")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e7bd9998b62a0ced0903869162a5104392637883")]
 [assembly: System.Reflection.AssemblyProductAttribute("Teste_Advinha")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Teste_Advinha")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
