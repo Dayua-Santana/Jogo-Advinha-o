@@ -25,7 +25,7 @@ while (true)
         Console.ReadLine();
 
         Console.WriteLine("(C) para continuar ou (S) para Sair ");
-        string letraDigitada = Console.ReadLine();
+        string? letraDigitada = Console.ReadLine();
         if (letraDigitada == "C" || letraDigitada == "c")
         {
             continue;
